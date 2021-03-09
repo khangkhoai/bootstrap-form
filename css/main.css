@@ -1,0 +1,36 @@
+.card-header{
+    background-color: #ffffff;
+}
+.card-footer{
+    background-color: #ffffff;
+}
+.container2{
+    max-width: 100%;
+}
+.container2 .round .row{
+    padding-top: 5px;
+    background-color: #cccccc;
+}
+.round{
+    padding: 1em 0;
+    margin: 0 2em;
+    border-radius: 90%;
+}
+.round2{
+    padding: 1em 0;
+    margin: 0 2em;
+    border-radius: 90%;
+}
+.round2 .form-inline{
+    padding-bottom: 1em;
+}
+.col-table{
+    overflow: scroll;
+    /*max-height: 500px;*/
+    height: 400px; 
+}
+.col-thead{
+    background-color: darkturquoise;
+}
+
+
