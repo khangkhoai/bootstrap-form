@@ -1,3 +1,10 @@
+.overlay{
+    position: absolute;
+    left: 1%;
+    top: 1%;
+    right: 1%;
+    width: 98%; 
+}
 .card-header{
     background-color: #ffffff;
 }
@@ -30,7 +37,22 @@
     height: 400px; 
 }
 .col-thead{
-    background-color: darkturquoise;
+    background-color: #c1e2fc;
+}
+.card input{ 
+   height: 35px;
+   padding: 5px;
+}
+.card button{
+    height: 35px;
+    padding: 5px;
+}
+.card label{
+    height: 15px;
+    
+}
+.form-group div{
+    padding: 0px;
 }
 
 
